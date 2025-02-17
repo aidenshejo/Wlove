@@ -8,9 +8,9 @@ export default function Footer() {
           <div className="mb-6 md:mb-0">
             <h2 className="font-bold text-lg mb-2">Information</h2>
             <ul>
-              <li className="mb-1"><Link href='#services' className="hover:text-green-500">Services</Link></li>
-              <li className="mb-1"><Link href='#distnations' className="hover:text-green-500">Distnations</Link></li>
-              <li className="mb-1"><Link href='#about' className="hover:text-green-500">About</Link></li>
+              <li className="mb-1"><Link href='/' className="hover:text-green-500">Home</Link></li>
+              <li className="mb-1"><Link href='/blog' className="hover:text-green-500">Blog</Link></li>
+              <li className="mb-1"><Link href='/about' className="hover:text-green-500">About</Link></li>
             </ul>
           </div>
           <div className="mb-6 md:mb-0">
