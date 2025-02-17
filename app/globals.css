@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a:active svg{
+  fill: green ;
+  color: green;
+  background-color: green;
+}
+
+#seoimg{
+  border-image: fill 1 linear-gradient(hsla(245, 67%, 4%, 0.916),hsla(210 80% 2% /0.819))  ;
+}
